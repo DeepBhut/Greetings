@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".SplashScreen">
+    <item android:id="@+id/action_about" android:title="@string/action_about"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_feedback" android:title="@string/action_feedback"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_rate_this_app" android:title="@string/action_rate_this_app"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_tell_a_friends" android:title="@string/action_tell_a_friends"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_more_greetingd" android:title="@string/action_more_greetingd"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
+<!-- From: file:/C:/Users/KnowLedge/AndroidStudioProjects/Greetings/app/src/main/res/menu/menu_splash_screen.xml -->
