@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Greetings</string>
+    <string name="action_about">About</string>
+    <string name="action_feedback">Feedback</string>
+    <string name="action_rate_this_app">Rate this app</string>
+    <string name="action_tell_a_friends">Tell a friends</string>
+    <string name="action_more_greetingd">More Greetings</string>
+    <string name="action_settings">List Screen</string>
+    <string name="title_activity_main">More Greetings</string>
+    <string name="title_activity_sub_list">SubList</string>
+</resources>
